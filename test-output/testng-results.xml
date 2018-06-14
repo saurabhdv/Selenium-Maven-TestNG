@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8793" started-at="2018-06-05T12:12:29Z" finished-at="2018-06-05T12:12:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8793" started-at="2018-06-05T12:12:29Z" finished-at="2018-06-05T12:12:38Z">
+      <class name="com.Actimize.Alert.NewTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.Actimize.Alert.NewTest@ff5b51f]" name="login" is-config="true" duration-ms="8434" started-at="2018-06-05T12:12:29Z" finished-at="2018-06-05T12:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="AlertPresent()[pri:0, instance:com.Actimize.Alert.NewTest@ff5b51f]" name="AlertPresent" duration-ms="342" started-at="2018-06-05T12:12:37Z" finished-at="2018-06-05T12:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AlertPresent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Actimize.Alert.NewTest@ff5b51f]" name="tearDown" is-config="true" duration-ms="1639" started-at="2018-06-05T12:12:38Z" finished-at="2018-06-05T12:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Actimize.Alert.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
