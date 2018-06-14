@@ -16,6 +16,7 @@ public class NewTest {
 	private WebDriver driver;
 	WebDriverWait wait;
 
+	
 	// change URL as per Test machine
 	String URL = "http://172.30.21.63:8082/RCM/Alerts.jsp";
 	
